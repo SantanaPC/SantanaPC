@@ -1,8 +1,8 @@
 
 ### Pamela (Pamm) Santana (she/her) 😄
 
-🔭 I’m a PostDoc Researcher at SpACE group (Speciation, Adaptation and Co-Evolution) at Lund University.
-🌱 I’m deeply interested in how ecological interactions shapes the traits that species presents and an entusiast of Quantitative Ecology and Quantitative Evolutionary Genetics. For that, I use machine learning and data science tools to solve ecological problems, with a sustained interest for network ecology and the prediction of species interactions.
+🔭 I’m a Marie Curie PostDoc Fellow at SpACE group (Speciation, Adaptation and Co-Evolution) at Lund University.
+🌱 I explore how ecological interactions shape the traits of species. I combine pollination ecology, quantitative ecology, and quantitative evolutionary genetics with data science and machine learning to unravel coevolutionary dynamics shaping species evolution. I love nature and understand how it works.
 
 📫 To reach me please e-mail to pamela.santana@biol.lu.se
  
